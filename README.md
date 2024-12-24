@@ -18,6 +18,10 @@
   <a href="https://ivanlori.github.io/Vuemmerce">Check the DEMO out!</a>
 </p>
 
+## Requirements
+
+- Node 16.x
+
 ## 🚀 Installation
 
 ```
